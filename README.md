@@ -1,5 +1,6 @@
 # android-develop
 USTH ICT gen 5
+Lecture note
 
 topic: Image application 
 
