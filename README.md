@@ -1,8 +1,11 @@
-# android-develop
-USTH ICT gen 5
-topic: Image application
+# USTH ICT 2017 Android Development
 
-members: 1.Tạ Quang Huy 
-2.Bùi Quang Tân 
-3.Ngọc An 
-4.Lê Sinh Quý
+
+# Members List: 
+*1.Tạ Quang Huy 
+*2.Bùi Quang Tân 
+*3.Ngọc An 
+*4.Lê Sinh Quý
+
+#Project description
+topic: Image application
